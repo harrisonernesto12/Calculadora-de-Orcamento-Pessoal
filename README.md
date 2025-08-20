@@ -1,14 +1,20 @@
-# README.md
-Meu Primeiro Projeto
+Especificações Técnicas Obrigatórias
 
-Olá! Esse é o meu primeiro repositório no GitHub.  
-Aqui vou treinar programação! 
+Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando React, focado em aplicar conceitos fundamentais de front-end.
 
- O que tem aqui?
-- Um README editado
-- Muito aprendizado pela frente
+Tecnologias utilizadas:
 
-## O que aprendi
- - criar um repositório
- - um metodo de organizar o trabalho
- - estruturar um perfil profissional.
+React;
+JavaScript (ES6+);
+HTML5;
+CSS3.
+
+O que aprendi:
+
+Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
+
+Componentização: criação e reutilização de componentes para a UI, como "Botao" e "Input";
+
+Props: passagem de dados e funções entre componentes ("pai para filho");
+
+Renderização Condicional: lógica para exibir diferentes partes da interface com base no estado da aplicação.
